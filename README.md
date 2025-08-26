@@ -1,4 +1,4 @@
-## Halo semua!👋
+## Halo!!👋
 
 Perkenalkan nama saya **Muchammad Thoriq Ega Maulana**.<br>
 
@@ -8,9 +8,11 @@ Saat ini sedang melakukan Studi Independen di [Dicoding](https://www.dicoding.co
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/thoriq-ega-2b6b69378/)ku ya.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning React and Back-End Developer
+- 📫 How to reach me: [email](mailto:thoriqmaulana96010@gmail.com) or [https://www.instagram.com/egth](https://www.instagram.com/egth__/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Saya suka anime
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
